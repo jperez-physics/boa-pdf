@@ -1,0 +1,2 @@
+# BoaPDF — aplicación de escritorio. Tkinter ya viene incluido con Python.
+PyMuPDF>=1.24
